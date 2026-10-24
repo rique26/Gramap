@@ -1,0 +1,24 @@
+<resources>
+    <string name="world_title">O Alicerce</string>
+    <string name="world_subtitle">Fonética e ortografia</string>
+    <string name="back_to_worlds">Voltar para os mundos</string>
+    <string name="stage_number">Fase %1$d</string>
+    <string name="stage_topic_title">Fase %1$d – %2$s</string>
+    <string name="stage_current_title">Fase atual</string>
+    <string name="stage_completed_title">Fase concluída</string>
+    <string name="stage_locked_title">Fase bloqueada</string>
+    <string name="stage_current_detail">Continue seu percurso nesta fase.</string>
+    <string name="stage_completed_detail">Esta fase já foi concluída. Você pode refazê-la.</string>
+    <string name="stage_locked_detail">Conclua a fase %1$d para destravar esta ilha.</string>
+    <string name="stage_world_progress">%1$d de %2$d fases concluídas</string>
+    <string name="stage_accessibility_current">Fase %1$d, atual</string>
+    <string name="stage_accessibility_completed">Fase %1$d, concluída</string>
+    <string name="stage_accessibility_locked">Fase %1$d, bloqueada. Conclua a fase %2$d para destravar</string>
+    <string name="action_continue">Continuar</string>
+    <string name="action_start">Começar</string>
+    <string name="action_retry">Refazer</string>
+    <string name="action_go_to_current">Ir para a fase atual</string>
+    <string name="block_label">Bloco %1$d</string>
+    <string name="feedback_lesson_unavailable">A lição desta fase ainda não está conectada.</string>
+    <string name="feedback_world_list_unavailable">A lista de mundos ainda não está conectada.</string>
+</resources>
